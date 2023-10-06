@@ -1,0 +1,354 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.aaa{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 30%;
+ 
+    align-items: center;
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+.ddd{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    list-style: none;
+ 
+} 
+.fff i{
+   font-size: 30px;
+}
+.bbb img{
+    width: 160px;
+    height: 40px;
+}
+.eee{
+    width: 130px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.xxx{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 700px;
+
+}
+.ttt{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+.zzz{
+    padding: 70px;
+}
+.jjj{
+   
+    width: 100px;
+    height: 100px;
+    
+    padding-left: 25px;
+    
+
+}
+.jjj img{
+    width: 50px;
+    height: 60px;
+
+    
+}
+.zzz input{
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+}
+.contein{
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg);
+}
+.vvv{
+    color: white;
+}
+.jjj h4{
+    color: white;
+}
+.europe{
+    width: 370px;
+    height: 390px;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/04/destination-9.jpg);
+    display: flex;
+    align-items: end;
+    
+}
+.thailandia{
+    width: 370px;
+    height: 390px;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/destination-5-720x720.jpg);
+    
+}
+.asia{
+    width: 370px;
+    height: 390px;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/03/destination-8.jpg);
+   
+}
+.italy{
+    width: 370px;
+    height: 390px;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/03/destination-10.jpg);
+    
+}
+.netherland{
+    width: 370px;
+    height: 390px;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/03/destination-11.jpg);
+    
+}
+.unitedstade{
+    width: 370px;
+    height: 390px;
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/03/destination-1-1-720x720.jpg);
+   
+}
+.city{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.OURPROPOSALS{
+    margin-top: 80px;
+}
+.our{
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Holiday{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 140px;
+margin-top: 80px;
+color: white;
+background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-search-2.jpg?id=1538);
+}
+.Holiday input{
+    width: 220px;
+    height: 50px;
+    border-radius: 20px;
+    color: brown;
+    padding-left: 30px;
+}
+.Beaches{
+    width: 370px;
+    height: 300px;
+    
+
+}
+.viev{
+    width: 300px;
+    height: 150px;
+}
+.days{
+    width: 550px;
+    height: 120px;
+    background-color: darkcyan;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+   
+}
+.AMERICA{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.thebest{
+    margin-top: 80px;
+    
+}
+.more{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+}
+.AMERICA button{
+    width: 150px;
+    height: 40px;
+  background-color: darkcyan;
+    color: white;
+    border-radius: 20px;
+    
+}
+.kkk{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    z-index: -1;
+}
+.cities{
+    width: 50%;
+    height: 400px;
+}
+.nature{
+    width: 50%;
+    height: 400px;
+    background-color: aqua;
+}
+.discover{
+    width: 100%;
+    height: 400px;
+    background-color: aquamarine;
+}
+.fdfd{
+    width: 1920px;
+    height: 1000px;
+}
+.relax{
+    width: 100px;
+    height: 200px;
+}
+.relax p{
+    width: 20%;
+}
+.sec-3-top-right{
+    width: 300px;
+    height: 350px;
+}
+.sec-3-img img{
+    width: 500px;
+    height: 300px;
+}
+.days{
+    width: 350px;
+    height: 80px;
+}
+.tour{
+    display: flex;
+    width: 280px;
+    height: 70px;
+}
+.cruises{
+    display: flex;
+    width: 280px;
+    height: 70px;
+}
+.best{
+    display: flex;
+    width: 280px;
+    height: 70px;
+}
+.sec-3-bottom{
+    display: flex;
+    justify-content: center;
+}
+.sec-3-top{
+    display: flex;
+    justify-content: center;
+}
+.sec-3{
+    margin-top: 40px;
+}
+.sec-4{
+    width: 100%;
+    height: 200PX;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.sec-4-left{
+width: 50%;
+height: 200px;
+justify-content: center;
+align-items: center;
+background-image: url(https://www.icherisheher.gov.az/uploads/media/1490354530_3.jpg);
+padding-top: 60px;
+padding-left: 300px;
+color: white;
+}
+.sec-4-right{
+    width: 50%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://4.bp.blogspot.com/-WUtViTL9kD8/ToX_N3FfAUI/AAAAAAAABBI/y1WCHDVP5YU/s1600/Payiz+fesli+sekilleri_+%25288%2529_50QCENAT.jpg);
+    padding-top: 60px;
+    padding-left: 300px;
+    color: white;
+}
+.dateils{
+    width: 130px;
+    height: 50px;
+    border-radius: 25px;
+    
+}
+.sec-5-bottom-div img{
+    width: 260px;
+    height: 170px;
+}
+.sec-5-bottom-div{
+    width: 300px;
+    height: 300px;
+}
+.sec-5-bottom{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding-top: 50px;
+
+    
+}
+.sec-5-top{
+    padding-left: 600px;
+    margin-top: 30px;
+} 
+.details1{
+    width: 80px;
+    height: 25px;
+    border-radius: 25px;
+    background-color: rgb(228, 228, 25);
+    color: white;
+}
+.details2{
+    width: 80px;
+    height: 25px;
+    border-radius: 25px;
+    background-color: rgb(238, 17, 17);
+    color: white;
+}
+.details3{
+    width: 80px;
+    height: 25px;
+    border-radius: 25px;
+    background-color: rgb(154, 65, 237);
+    color: white;
+    
+}
+.aaa i{
+    padding-right: 40px;
+}
